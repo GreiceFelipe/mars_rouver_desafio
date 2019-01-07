@@ -25,7 +25,9 @@ Each rover will be finished sequentially, which means that the second rover won'
 start to move until the first one has finished moving.
 OUTPUT:
 The output for each rover should be its final coordinates and heading.
+
 INPUT AND OUTPUT
+
 Test Input:
 
 5 5
